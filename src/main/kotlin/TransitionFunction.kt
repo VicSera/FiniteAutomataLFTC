@@ -1,4 +1,4 @@
-typealias TransitionOutput = Pair<String, String>
+typealias TransitionOutput = Pair<Char, String>
 typealias Transition = Pair<String, Set<TransitionOutput>>
 typealias TransitionFunction = (String) -> Set<TransitionOutput>
 
