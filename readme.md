@@ -1,7 +1,7 @@
 https://github.com/VicSera/FiniteAutomataLFTC
 # Finite Automata
 ## Formal Languages and Compiler Design
-<img src="C:\programming\FiniteAutomataLFTC\FA.svg" alt="FA">
+<img src="./res/FA.svg" alt="FA">
 
 ## `FA.in` structure (ISO/IEC 14977 standard EBNF):
  
