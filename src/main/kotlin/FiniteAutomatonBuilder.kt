@@ -84,7 +84,6 @@ class FiniteAutomatonBuilder(path: String) {
         val anyState = states?.reduce{ acc, state -> "$acc|$state" } ?: return null
         val anySymbol = alphabet?.map{ it.toString() }?.reduce{ acc, symbol -> "$acc|$symbol" } ?: return null
         val transitionOutput = "($anySymbol)($anyState)"
-        val sep = Regex.escape("|")
 
         var inputSymbol = ""
         var symbol: Char? = null

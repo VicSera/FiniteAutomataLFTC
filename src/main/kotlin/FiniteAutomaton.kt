@@ -33,7 +33,7 @@ class FiniteAutomaton(
     private fun transitionsToFunction(transitions: Set<Transition>): TransitionFunction {
         val map = transitions.associate { transition -> transition.inputSymbol to transition.outputs }
 
-        return fun(symbol: String ): Set<TransitionOutput> {
+        return fun(symbol: String): Set<TransitionOutput> {
             return map[symbol]?: emptySet()
         }
     }

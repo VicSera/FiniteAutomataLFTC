@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="400" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <ellipse stroke="black" stroke-width="1" fill="none" cx="343.5" cy="238.5" rx="30" ry="30"/>
+    <text x="332.5" y="244.5" font-family="Times New Roman" font-size="20">S2</text>
+    <ellipse stroke="black" stroke-width="1" fill="none" cx="343.5" cy="238.5" rx="24" ry="24"/>
+    <ellipse stroke="black" stroke-width="1" fill="none" cx="174.5" cy="237.5" rx="30" ry="30"/>
+    <text x="163.5" y="243.5" font-family="Times New Roman" font-size="20">S1</text>
+    <ellipse stroke="black" stroke-width="1" fill="none" cx="174.5" cy="237.5" rx="24" ry="24"/>
+    <path stroke="black" stroke-width="1" fill="none" d="M 330.275,211.703 A 22.5,22.5 0 1 1 356.725,211.703"/>
+    <text x="338.5" y="162.5" font-family="Times New Roman" font-size="20">1</text>
+    <polygon fill="black" stroke-width="1" points="356.725,211.703 365.473,208.17 357.382,202.292"/>
+    <polygon stroke="black" stroke-width="1" points="113.5,279.5 149.791,254.513"/>
+    <polygon fill="black" stroke-width="1" points="149.791,254.513 140.366,254.932 146.037,263.168"/>
+    <path stroke="black" stroke-width="1" fill="none" d="M 158.609,212.192 A 22.5,22.5 0 1 1 184.922,209.493"/>
+    <text x="160.5" y="160.5" font-family="Times New Roman" font-size="20">1</text>
+    <polygon fill="black" stroke-width="1" points="184.922,209.493 193.263,205.086 184.615,200.064"/>
+    <path stroke="black" stroke-width="1" fill="none" d="M 202.64,227.18 A 201.953,201.953 0 0 1 315.484,227.848"/>
+    <polygon fill="black" stroke-width="1" points="315.484,227.848 309.242,220.775 306.391,230.36"/>
+    <text x="254.5" y="210.5" font-family="Times New Roman" font-size="20">0</text>
+    <path stroke="black" stroke-width="1" fill="none" d="M 316.488,251.454 A 162.962,162.962 0 0 1 201.357,250.773"/>
+    <polygon fill="black" stroke-width="1" points="201.357,250.773 207.03,258.31 210.618,248.976"/>
+    <text x="253.5" y="282.5" font-family="Times New Roman" font-size="20">0</text>
+</svg>
